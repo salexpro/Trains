@@ -1,0 +1,23 @@
+{
+  "name": "trains",
+  "version": "1.0.0",
+  "description": "Trains - implementation of classroom task",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salexpro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salexpro/Trains.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salexpro/Trains/issues"
+  },
+  "homepage": "https://github.com/salexpro/Trains#readme"
+}
