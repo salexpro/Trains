@@ -4,7 +4,7 @@
   "description": "Trains - implementation of classroom task",
   "main": "app.js",
   "dependencies": {
-    "moment": "^2.20.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {},
   "scripts": {
